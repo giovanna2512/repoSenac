@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/02/2020, 21:18:17
+    Author     : giovanna.palmeida1
+*/
+
+p {
+	color: blue;
+	background-color: yellow;
+}
+h1 {
+	font-family:serif ;
+}
+h2 {
+	font-family: sans-serif;
+}
+p {
+	font-family: monospace;
+}
